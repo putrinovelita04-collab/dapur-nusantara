@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+    --color-dn-dark: #301A15;
+    --color-dn-white: #FFFFFF;
+    --color-dn-brown: #543F3A;
+}
+
+[x-cloak] {
+    display: none !important;
+}
